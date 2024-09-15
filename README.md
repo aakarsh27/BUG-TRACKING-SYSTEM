@@ -5,3 +5,5 @@ available through the login system, i.e., Customer, Admin, and Expert each havin
 authorities
 
 need to give a detailed explanation about this project
+
+![bug tracking](https://github.com/user-attachments/assets/4cccb8b9-38c6-4135-b178-c8048cf955a4)
